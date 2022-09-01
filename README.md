@@ -3,7 +3,7 @@
 Sweet Pineapple Builder is a python script that automate the whole process of creating a custom WiFi Pineapple Tetra image. As the WiFi Pineapple Tetra firmware is a custom version of OpenWrt (19.07.2), it is therefore possible to create our own custom firmware tailored to any router based on the MIPS 24Kc architecture.<br><br>
 Full blog post for more details: [https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7](https://samy.link/blog/build-your-own-wifi-pineapple-tetra-for-7)
 
-![WiFi pineapple DIY Logo](https://raw.githubusercontent.com/Nwqda/Sweet-Pineapple-Builder/master/cake/seed/Sweet-bg.jpeg)
+![WiFi pineapple DIY Logo](https://gitlab.com/Naqwada/sweet-pineapple-builder/-/raw/master/cake/seed/Sweet-bg.jpeg)
 
 
 ### Supported devices
@@ -50,7 +50,7 @@ python3 sweetPineappleBuilder.py
 ```
 Then select your router from the list and that's all.<br>
 Now, be patient for around 10 minutes to complete the download and compilation process.<br><br>
-![WiFi pineapple DIY](https://raw.githubusercontent.com/Nwqda/Sweet-Pineapple-Builder/master/cake/seed/Sweet-screenshot.png)
+![WiFi pineapple DIY](https://gitlab.com/Naqwada/sweet-pineapple-builder/-/raw/master/cake/seed/Sweet-screenshot.png)
 <br>
 
 ### Docker
@@ -73,27 +73,27 @@ python3 sweetPineappleBuilder.py
 ### Still having difficulties?
 Don't worry, you can find in the `Releases` section all the pre-compiled images!<br>
 
-[https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/tag/v1.0.1](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/tag/v1.0.1)
+[https://gitlab.com/Naqwada/sweet-pineapple-builder/-/releases/v1.0.1](https://gitlab.com/Naqwada/sweet-pineapple-builder/-/releases/v1.0.1)
 
 
 Device      | Firmware Image         |
 -------------|-------------| 
-WZR450HP2 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-450hp2-tetra-sysupgrade.bin) |
-WZR600DHP | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-600dhp-tetra-sysupgrade.bin)|
-WZRHPAG300H | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-ag300h-tetra-sysupgrade.bin)|
-WZRHPG300NH | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g300nh-tetra-sysupgrade.bin)|
-WZRHPG300NH2 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g300nh2-tetra-sysupgrade.bin)|
-WZRHPG450H | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/wzr-hp-g450h-tetra-sysupgrade.bin)|
-DGL5500A1 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dgl-5500-a1-tetra-sysupgrade.bin)|
-DIR835A1 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dir-835-a1-tetra-sysupgrade.bin)|
-dir-869-a1 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/dir-869-a1-tetra-sysupgrade.bin)|
-gl-ar300 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar300-tetra-sysupgrade.bin)|
-gl-ar300m | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar300m-tetra-sysupgrade.bin)|
-gl-ar750 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar750-tetra-sysupgrade.bin)|
-gl-ar750s | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/gl-ar750s-tetra-sysupgrade.bin)|
-archer-c7-v2 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v2-tetra-sysupgrade.bin)|
-archer-c7-v4 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v4-tetra-sysupgrade.bin) |
-archer-c7-v5 | [Download latest version](https://github.com/Nwqda/Sweet-Pineapple-Builder/releases/download/v1.0.1/archer-c7-v5-tetra-sysupgrade.bin)|
+WZR450HP2 | [Download latest version](https://samy.link/projects/pineapple/wzr-450hp2-tetra-sysupgrade.bin) |
+WZR600DHP | [Download latest version](https://samy.link/projects/pineapple/wzr-600dhp-tetra-sysupgrade.bin)|
+WZRHPAG300H | [Download latest version](https://samy.link/projects/pineapple/wzr-hp-ag300h-tetra-sysupgrade.bin)|
+WZRHPG300NH | [Download latest version](https://samy.link/projects/pineapple/wzr-hp-g300nh-tetra-sysupgrade.bin)|
+WZRHPG300NH2 | [Download latest version](https://samy.link/projects/pineapple/wzr-hp-g300nh2-tetra-sysupgrade.bin)|
+WZRHPG450H | [Download latest version](https://samy.link/projects/pineapple/wzr-hp-g450h-tetra-sysupgrade.bin)|
+DGL5500A1 | [Download latest version](https://samy.link/projects/pineapple/dgl-5500-a1-tetra-sysupgrade.bin)|
+DIR835A1 | [Download latest version](https://samy.link/projects/pineapple/dir-835-a1-tetra-sysupgrade.bin)|
+dir-869-a1 | [Download latest version](https://samy.link/projects/pineapple/dir-869-a1-tetra-sysupgrade.bin)|
+gl-ar300 | [Download latest version](https://samy.link/projects/pineapple/gl-ar300-tetra-sysupgrade.bin)|
+gl-ar300m | [Download latest version](https://samy.link/projects/pineapple/gl-ar300m-tetra-sysupgrade.bin)|
+gl-ar750 | [Download latest version](https://samy.link/projects/pineapple/gl-ar750-tetra-sysupgrade.bin)|
+gl-ar750s | [Download latest version](https://samy.link/projects/pineapple/gl-ar750s-tetra-sysupgrade.bin)|
+archer-c7-v2 | [Download latest version](https://samy.link/projects/pineapple/archer-c7-v2-tetra-sysupgrade.bin)|
+archer-c7-v4 | [Download latest version](https://samy.link/projects/pineapple/archer-c7-v4-tetra-sysupgrade.bin) |
+archer-c7-v5 | [Download latest version](https://samy.link/projects/pineapple/archer-c7-v5-tetra-sysupgrade.bin)|
 <br>
 
 
